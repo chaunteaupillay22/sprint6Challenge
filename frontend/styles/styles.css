@@ -63,6 +63,14 @@ h3 {
   color: black;
 }
 
+.character-name {
+  cursor: pointer;
+}
+
+.character-name:hover {
+  text-decoration: underline;
+}
+
 header,
 footer {
   padding: 1rem;
